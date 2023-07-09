@@ -1,1 +1,1 @@
-# vending-page.github.io
+# vending-page
